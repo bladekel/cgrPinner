@@ -13,6 +13,10 @@
 - pinToggle
 - readPin
 
+## Library installation
+- Just copy the library folder (cgrPinner-master) to your arduino ide's library folder. It has to be like ;
+> C:\Program Files (x86)\Arduino\libraries
+
 ## Library usage
 > Include the library
 ```c++
