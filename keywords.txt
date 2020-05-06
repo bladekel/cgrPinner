@@ -1,0 +1,6 @@
+setOutput	LITERAL1
+setInput	LITERAL1
+pinHigh		KEYWORD1
+pinLow		KEYWORD1
+pinToggle	KEYWORD1
+readPin		KEYWORD1
