@@ -46,7 +46,7 @@ bool status = readPin(in1);  // Read pin status
 
 ## Example
 
-![**read_write.ino**](https://github.com/bladekel/cgrPinner/)
+![**read_write.ino**](https://github.com/bladekel/cgrPinner/blob/master/examples/read_write/read_write.ino)
 
 ```c++
 #include <cgrPinner.h> // https://github.com/bladekel/cgrPinner/
